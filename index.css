@@ -1,0 +1,20 @@
+section{background-color: lightblue;
+	border: 2px solid blue;
+	height: 300px;
+	 justify-content: center;
+	 display: flex ;
+	 align-items:stretch ;
+	 flex-wrap: wrap;
+	 align-content: flex-end;}
+
+
+article{border: 1px solid green; 
+	background-color: red;
+	 height: 100px;
+	  width: 50%;}
+	  *{box-sizing: border-box;}
+	  header {height: 200px;
+	  	background-color: orange;
+	  	display: flex;
+	  	justify-content: center;
+	  	align-items: center;}
